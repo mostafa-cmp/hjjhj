@@ -1,0 +1,2 @@
+bakeg:
+npm install --save discord.js
